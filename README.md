@@ -6,11 +6,11 @@
 
 ### Hi there! It's me @kimjereen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align = "justify"> I am Kim Jereen M. Barroquillo, a student who is new to programming. I started a GitHub account to learn more about the Tech Community and to familiarize myself with how it operates, as I'll become one of them in the future. I'd love to create my own programs one day in order to contribute and share knowledge. Nice to meet you! </p>
+<p align = "justify"> I am Kim Jereen M. Barroquillo, a student who is new to programming. I started a GitHub account to learn more about the Tech Community and to familiarize myself with how it operates, as I'll become one of them in the future. I'd love to create my own programs one day and able to contribute and share knowledge. Nice to meet you! </p>
 
 ### About Me:
 
-- 👀 I’m interested in Software and Web Development, Digital Designing, Editting and other fun stuff.
+- 👀 I’m interested in Web Design & Development, UX Design, Editing and other IT stuff.
 - 🌱 I’m currently studying different Programming languages.
 - ☕ I'm working on putting together my first ever website.
 - 💞️ I'm thrilled to be officially part of this community. 
